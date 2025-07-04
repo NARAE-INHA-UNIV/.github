@@ -9,3 +9,7 @@ Github 레파지토리 접근 및 Pull-Request 요청은 아래 관리자에게 
 
 - 항공전자(Avionics) : 정영우(devil000102@naver.com), 이현제(leecurrent04@inha.edu)
 - CV (Computer Vision) : 손유을(seumgochido@inha.edu)
+
+##  Guide
+
+- [Git 사용법](../Docs/howToUseGit/How_to_use_GIT.md)
