@@ -3,13 +3,8 @@
 인하대학교 모형항공기 동아리 나래<br>
 공식 Github 계정
 
-## UAV 관리자
+## 소개
 
-Github 레파지토리 접근 및 Pull-Request 요청은 아래 관리자에게 문의.
+1982년부터 시작한 인하대학교 유일의 모형항공기 중앙동아리 나래 입니다.<br>
+무인 드론(multirotor), 고정익 항공기(fixed wing), VTOL을 비롯한 초경량비행장치의 구조, 제어, 비행제어컴퓨터 등 여러 분야에서 연구를 하고 있습니다.
 
-- 항공전자(Avionics) : 정영우(devil000102@naver.com), 이현제(leecurrent04@inha.edu)
-- CV (Computer Vision) : 손유을(seumgochido@inha.edu)
-
-##  Guide
-
-- [Git 사용법](../Docs/howToUseGit/How_to_use_GIT.md)
